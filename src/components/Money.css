@@ -1,0 +1,20 @@
+.money-container {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 20px auto;
+    max-width: 1300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.money-container h2 {
+    color: white;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 800;
+}
