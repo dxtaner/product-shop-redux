@@ -1,0 +1,214 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "position": "Forward",
+      "productPrice": 80000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1694590254.jpg?lm=1"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "position": "Forward",
+      "productPrice": 95000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/8198-1694609670.jpg?lm=1"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "position": "Forward",
+      "productPrice": 900000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/68290-1697056482.png?lm=1"
+    },
+    {
+      "id": 4,
+      "name": "Virgil van Dijk",
+      "position": "Defender",
+      "productPrice": 80000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/139208-1620651710.jpg?lm=1"
+    },
+    {
+      "id": 5,
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "productPrice": 85000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/88755-1684245748.jpg?lm=1"
+    },
+    {
+      "id": 6,
+      "name": "Arda Güler",
+      "position": "Midfielder",
+      "productPrice": 250000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/861410-1699472585.jpg?lm=1"
+    },
+    {
+      "id": 7,
+      "name": "Arda Turan",
+      "position": "Midfielder",
+      "productPrice": 10,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/21369-1515403225.jpg?lm=1"
+    },
+    {
+      "id": 8,
+      "name": "Semih Kaya",
+      "position": "Defender",
+      "productPrice": 120,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/60709-1643963703.png?lm=1"
+    },
+    {
+      "id": 9,
+      "name": "Fatih Terim ",
+      "position": "Defender",
+      "productPrice": 1,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/239878-1630502124.png?lm=1"
+    },
+    {
+      "id": 10,
+      "name": "Mauro Icardi",
+      "position": "Forward",
+      "productPrice": 12000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/68863-1671105169.png?lm=1"
+    },
+    {
+      "id": 11,
+      "name": "Davinson Sánchez",
+      "position": "Defender",
+      "productPrice": 14000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/341429-1464272554.jpg?lm=1"
+    },
+    {
+      "id": 12,
+      "name": "22 Hakim Ziyech",
+      "position": "Midfielder",
+      "productPrice": 18000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/217111-1701255091.png?lm=1"
+    },
+    {
+      "id": 13,
+      "name": "David de Gea",
+      "position": "Goalkeeper",
+      "productPrice": 10000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/59377-1667548362.jpg?lm=1"
+    },
+    {
+      "id": 14,
+      "name": "Emre Belözoğlu",
+      "position": "Midfielder",
+      "productPrice": 1000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/5782-1603890279.jpeg?lm=1"
+    },
+    {
+      "id": 15,
+      "name": "Milot Rashica",
+      "position": "Forward",
+      "productPrice": 1500000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/291739-1696076552.png?lm=1"
+    },
+    {
+      "id": 16,
+      "name": "Jude Bellingham",
+      "position": "Midfielder",
+      "productPrice": 502222220,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/581678-1693987944.jpg?lm=1"
+    },
+    {
+      "id": 17,
+      "name": "Erling Haaland",
+      "position": "Forward",
+      "productPrice": 200000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/418560-1694590614.jpg?lm=1"
+    },
+    {
+      "id": 18,
+      "name": "Rodri",
+      "position": "Midfielder",
+      "productPrice": 150000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/357565-1682587890.jpg?lm=1"
+    },
+    {
+      "id": 19,
+      "name": "Josko Gvardiol",
+      "position": "Defender",
+      "productPrice": 55000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/475959-1663685941.jpg?lm=1"
+    },
+    {
+      "id": 20,
+      "name": "Jamal Musiala",
+      "position": "Midfielder",
+      "productPrice": 85000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/580195-1667830802.jpg?lm=1"
+    },
+    {
+      "id": 21,
+      "name": "Harry Kane",
+      "position": "Forward",
+      "productPrice": 120000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/132098-1700211169.jpg?lm=1"
+    },
+    {
+      "id": 22,
+      "name": "Alphonso Davies",
+      "position": "Defender",
+      "productPrice": 25000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/424204-1667830391.jpg?lm=1"
+    },
+    {
+      "id": 23,
+      "name": " Julian Brandt",
+      "position": "Forward",
+      "productPrice": 45000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/187492-1661413063.jpg?lm=1"
+    },
+    {
+      "id": 24,
+      "name": "Kylian Mbappé",
+      "position": "Forward",
+      "productPrice": 155000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg?lm=1"
+    },
+    {
+      "id": 25,
+      "name": "Achraf Hakimi",
+      "position": "Defender",
+      "productPrice": 155000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/398073-1672304327.jpg?lm=1"
+    },
+    {
+      "id": 26,
+      "name": "Wilfried Zaha",
+      "position": "Forward",
+      "productPrice": 18000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/145988-1701182730.png?lm=1"
+    },
+    {
+      "id": 27,
+      "name": "Cengiz Ünder",
+      "position": "Midfielder",
+      "productPrice": 15000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/341647-1699812804.png?lm=1"
+    },
+    {
+      "id": 28,
+      "name": "Dominik Livakovic",
+      "position": "Goalkeeper",
+      "productPrice": 25000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/205927-1699812972.png?lm=1"
+    },
+    {
+      "id": 29,
+      "name": "Alejandro Garnacho",
+      "position": "Forward",
+      "productPrice": 45000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/811779-1694614870.jpg?lm=1"
+    },
+    {
+      "id": 30,
+      "name": "Uğurcan Çakır",
+      "position": "Goalkeeper",
+      "productPrice": 25000000,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/292199-1695129732.png?lm=1"
+    }
+  ]
+}
